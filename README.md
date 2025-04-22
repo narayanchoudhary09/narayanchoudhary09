@@ -1,4 +1,4 @@
-                                                                          ||  नारायण चौधरी आपका स्वागत है  ||
+                              ||  नारायण चौधरी आपका स्वागत है  ||
 - 👋 Hi, I’m Narayan Choudhary.
 - 🌱 I’m currently learning DSA & Backend Development.
 - 💬 Ask me about C++ & OOP,JavaScipt,SQL.
