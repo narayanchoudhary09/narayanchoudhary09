@@ -1,4 +1,4 @@
-                                                          ||  नारायण चौधरी आपका स्वागत करता है | ||
+                                                        ||  नारायण चौधरी आपका स्वागत करता है | ||
 - 👋 Hi, I’m Narayan Choudhary.
 - 🌱 I’m currently learning DSA & Ai.
 - 💬 Ask me about C++ & OOP,JavaScipt,SQL.
