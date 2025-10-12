@@ -1,9 +1,9 @@
                                   ||  नारायण चौधरी आपका स्वागत करता है | ||
 - 👋 Hi, I’m Narayan Choudhary.
-- 🌱 I’m currently learning DSA & Backend Development.
+- 🌱 I’m currently learning DSA & Ai.
 - 💬 Ask me about C++ & OOP,JavaScipt,SQL.
 - 📫 How to reach me narayan.choudharyadgitm@gmail.com || +91-6206730455
-- ✨ Current Location is New Delhi.
+- ✨ Current Location is Gurugram,Haryana
 
 
 
