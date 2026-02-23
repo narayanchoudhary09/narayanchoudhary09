@@ -1,7 +1,7 @@
                                                         ||  नारायण चौधरी आपका स्वागत करता है | ||
 - 👋 Hi, I’m Narayan Choudhary.
 - 🌱 I’m currently learning Data Analytics, DSA & Ai.
-- 💬 Ask me about Excel, SQL, Power BI< Statistics, C++ & OOP,JavaScipt,SQL.
+- 💬 Ask me about Excel, SQL, Power BI, Statistics, C++ & OOP,JavaScipt,SQL.
 - 📫 How to reach me narayan.choudharyadgitm@gmail.com || +91-6206730455
 - ✨ Current Location is Gurugram,Haryana
 
