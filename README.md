@@ -1,5 +1,5 @@
-                                                        
-- 👋 Hi, I’m Narayan 
+  Hi 👋, I'm Narayan Choudhary                                                   
+
 - 🌱 I’m currently learning Data Analytics and exploring Data Science
 - 💬 Ask me about Excel, SQL, Power BI, Python, Statistics, Machine Learing, C++ & OOP,JavaScipt
 - 📫 How to reach me narayan.choudharyadgitm@gmail.com || +91-6206730455
